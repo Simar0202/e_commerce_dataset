@@ -14,6 +14,7 @@ Practice advanced SQL concepts using real-world business questions
 
 
 🛠️ Tools & Technologies
+
 Python
 Pandas
 NumPy
@@ -21,6 +22,8 @@ Matplotlib
 MySQL
 Google Colab
 GitHub
+
+
 🧹 Data Cleaning Performed
 
 The following data quality checks were performed:
